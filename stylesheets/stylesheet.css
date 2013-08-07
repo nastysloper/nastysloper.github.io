@@ -30,9 +30,11 @@ footer, header, hgroup, menu, nav, section {
 .icon-links {
   display: inline-block;
   padding-right: 1em;
+  font-size: 20px;
 }
 .icon-links a:hover {
   color: blue;
+  font-size: 20px;
 }
 #nasty {
   text-align: center;
