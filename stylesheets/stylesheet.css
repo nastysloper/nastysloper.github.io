@@ -31,6 +31,9 @@ footer, header, hgroup, menu, nav, section {
   display: inline-block;
   padding-right: 1em;
 }
+.icon-links a:hover {
+  color: blue;
+}
 #nasty {
   text-align: center;
 }
