@@ -27,6 +27,13 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
+.icon-links {
+  display: inline-block;
+  padding-right: 1em;
+}
+#nasty {
+  text-align: center;
+}
 body {
 	line-height: 1;
 }
